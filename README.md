@@ -2,7 +2,8 @@
 - 👀 I’m interested in Web development web Applications and desktop applications using c#
 - 🌱 I’m currently learning C#,Web development
 - 💞️ I’m looking to collaborate on Oop in C# and Web development
-- 📫 How to reach me Twitter M_Aamir_khaan
+- 📫 How to reach me on Twitter
+ M_Aamir_khaan
 Email: aamirs1003@gmail.com
 
 <!---
